@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "SyncOrchestrator"
 include(":app")
+include(":sync-sdk")
+include(":sync-service")
+include(":core-domain")
